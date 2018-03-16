@@ -5,9 +5,9 @@
   
   <link href="/atom.xml" rel="self"/>
   
-  <link href="http://lovectz.com/"/>
+  <link href="http://blog.lovectz.com/"/>
   <updated>2018-03-13T09:10:17.257Z</updated>
-  <id>http://lovectz.com/</id>
+  <id>http://blog.lovectz.com/</id>
   
   <author>
     <name>儿宝</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>test_my_site</title>
-    <link href="http://lovectz.com/2018/03/13/test-my-site/"/>
-    <id>http://lovectz.com/2018/03/13/test-my-site/</id>
+    <link href="http://blog.lovectz.com/2018/03/13/test-my-site/"/>
+    <id>http://blog.lovectz.com/2018/03/13/test-my-site/</id>
     <published>2018-03-13T09:10:17.000Z</published>
     <updated>2018-03-13T09:10:17.257Z</updated>
     
@@ -32,8 +32,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://lovectz.com/2018/03/13/hello-world/"/>
-    <id>http://lovectz.com/2018/03/13/hello-world/</id>
+    <link href="http://blog.lovectz.com/2018/03/13/hello-world/"/>
+    <id>http://blog.lovectz.com/2018/03/13/hello-world/</id>
     <published>2018-03-13T07:48:44.266Z</published>
     <updated>2018-03-13T08:18:27.269Z</updated>
     
